@@ -42,7 +42,7 @@ const Login = () => {
   return (
     <>
       <Head>
-        <title>Login | Test Innovators</title>
+        <title>Login | UpStartPrep</title>
       </Head>
       <Box
         component="main"

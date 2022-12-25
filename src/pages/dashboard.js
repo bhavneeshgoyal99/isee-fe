@@ -14,7 +14,7 @@ const Page = () => (
   <>
     <Head>
       <title>
-        Dashboard | Test Innovators
+        Dashboard | UpStartPrep
       </title>
     </Head>
     <Box

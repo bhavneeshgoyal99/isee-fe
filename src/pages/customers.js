@@ -9,7 +9,7 @@ const Page = () => (
   <>
     <Head>
       <title>
-        Customers | Test Innovators
+        Customers | UpStartPrep
       </title>
     </Head>
     <Box

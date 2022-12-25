@@ -23,7 +23,7 @@ const App = (props) => {
     <CacheProvider value={emotionCache}>
       <Head>
         <title>
-          Test Innovators
+          UpStartPrep
         </title>
         <meta
           name="viewport"

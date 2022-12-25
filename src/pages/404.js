@@ -7,7 +7,7 @@ const Page = () => (
   <>
     <Head>
       <title>
-        404 | Test Innovators
+        404 | UpStartPrep
       </title>
     </Head>
     <Box

@@ -55,7 +55,7 @@ const Register = () => {
   return (
     <>
       <Head>
-        <title>Register | Test Innovators</title>
+        <title>Register | UpStartPrep</title>
       </Head>
       <Box
         component="main"
